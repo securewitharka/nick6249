@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nick6249
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chintu
+- 👀 I’m interested in CyberSecurity and Ethical Hacking.
+- 🌱 I’m currently learning Bug Bounty Hunting.
+- 💞️ I’m looking for Internships.
+- 📫 You can reach me through my LinkedIn mentioned in my profile.
 
 <!---
 nick6249/nick6249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
