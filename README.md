@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chintu
 - 👀 I’m interested in CyberSecurity and Ethical Hacking.
-- 🌱 I’m currently learning Bug Bounty Hunting.
+- 🌱 I’m currently learning Penetratioon Testing.
 - 💞️ I’m looking for Internships.
 - 📫 You can reach me through my LinkedIn mentioned in my profile.
 
